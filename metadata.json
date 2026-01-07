@@ -1,0 +1,7 @@
+{
+  "name": "AI Website Architect",
+  "description": "A powerful AI-driven website generator that creates complete, responsive, and production-ready single-page websites from simple text prompts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
